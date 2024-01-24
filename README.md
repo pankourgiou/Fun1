@@ -1,2 +1,2 @@
-# Control
-A simple hello world program
+# Mess it up
+A simple comments file.
